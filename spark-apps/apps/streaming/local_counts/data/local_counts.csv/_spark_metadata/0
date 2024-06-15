@@ -1,2 +1,0 @@
-v1
-{"path":"file:///opt/spark/work/app-20240531025225-0000/0/apps/streaming/local_counts/data/local_counts.csv/part-00000-fa9bbdbd-c08b-4f95-9573-e4eb458fc000-c000.snappy.parquet","size":518,"isDir":false,"modificationTime":1717126367247,"blockReplication":1,"blockSize":33554432,"action":"add"}
