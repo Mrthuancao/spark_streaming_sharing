@@ -1,5 +1,5 @@
 .env.spark
-.venv/
+.venv
 spark-apps/streaming_s3/
 spark-logs/
 spark-apps/data/
