@@ -1,0 +1,2 @@
+v1
+{"path":"file:///opt/spark/work/app-20240531025225-0000/0/streaming/rejected_out/data/part-00000-eab9d412-440a-470e-b11c-581521fe37d2-c000.csv","size":0,"isDir":false,"modificationTime":1717127832604,"blockReplication":1,"blockSize":33554432,"action":"add"}
