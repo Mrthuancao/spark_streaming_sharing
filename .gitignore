@@ -1,0 +1,6 @@
+/.env.spark
+/.venv
+/Users/thuancao/Desktop/spark-cluster-package/spark-apps/streaming_s3
+/Users/thuancao/Desktop/spark-cluster-package/spark-logs
+/Users/thuancao/Desktop/spark-cluster-package/spark-apps/data
+/Users/thuancao/Desktop/spark-cluster-package/install-packages
