@@ -1,6 +1,7 @@
 .env.spark
 .venv
 .env
+spark-apps/.ipynb_checkpoints/
 spark-apps/streaming_s3/
 spark-logs/
 spark-apps/data/
